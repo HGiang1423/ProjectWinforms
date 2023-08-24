@@ -1,0 +1,17 @@
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\Article01.exe.config
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\Article01.exe
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\Article01.pdb
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Windows.csproj.AssemblyReference.cache
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Windows.csproj.SuggestedBindingRedirects.cache
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Article19.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Form20.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Form1.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Form3.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Menu.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Form2.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Properties.Resources.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Windows.csproj.GenerateResource.cache
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.exe
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.pdb
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.ADO.resources

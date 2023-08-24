@@ -1,0 +1,94 @@
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\Article01.exe.config
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\Article01.exe
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\Article01.pdb
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\BEL.exe
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\DTO.exe
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\DAL.exe
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\BEL.pdb
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\BEL.exe.config
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\DTO.pdb
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\DTO.exe.config
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\DAL.pdb
+D:\windows\DangLeHuongGiang2121110222\Article01\bin\Debug\DAL.exe.config
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\GUII.csproj.AssemblyReference.cache
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\GUII.csproj.SuggestedBindingRedirects.cache
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.ADO.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Article19.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Form20.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\GUI.CustomerGUI.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Form1.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Menu.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.Properties.Resources.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.slide07.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.ThongTinCSDL.resources
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\GUII.csproj.GenerateResource.cache
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\GUII.csproj.CoreCompileInputs.cache
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\GUII.csproj.CopyComplete
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.exe
+D:\windows\DangLeHuongGiang2121110222\Article01\obj\Debug\Article01.pdb
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\GUII.exe.config
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\GUII.exe
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\GUII.pdb
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\BUS.exe
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\DTO.exe
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\DAL.exe
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\BUS.pdb
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\BUS.exe.config
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\DTO.pdb
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\DTO.exe.config
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\DAL.pdb
+D:\windows\DangLeHuongGiang2121110222\GUII\bin\Debug\DAL.exe.config
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.csproj.AssemblyReference.cache
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.ADO.resources
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Article19.resources
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Form20.resources
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.CustomerGUI.resources
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Form1.resources
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Menu.resources
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Properties.Resources.resources
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.slide07.resources
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.ThongTinCSDL.resources
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.csproj.GenerateResource.cache
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.csproj.CoreCompileInputs.cache
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.csproj.CopyComplete
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.exe
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.pdb
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Login.DangNhap.resources
+D:\windows\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Form2.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\GUII.exe.config
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\GUII.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\GUII.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\BUS.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\DTO.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\DAL.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\BUS.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\BUS.exe.config
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\DTO.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\DTO.exe.config
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\DAL.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\DAL.exe.config
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.csproj.AssemblyReference.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.ADO.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Article19.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Form20.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.CustomerGUI.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Login.DangNhap.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Form1.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Form2.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Menu.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.Properties.Resources.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.slide07.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.ThongTinCSDL.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.csproj.GenerateResource.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.csproj.CoreCompileInputs.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.csproj.CopyComplete
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII._3Class.TeacherGUI.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII._3Class.HeThong.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII._3Class.LienHe.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.csproj.ResolveComReference.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\Microsoft.Office.Client.Education.dll
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII._3Class.TTAccount.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\GUII\obj\Debug\GUII.ThongKe.resources

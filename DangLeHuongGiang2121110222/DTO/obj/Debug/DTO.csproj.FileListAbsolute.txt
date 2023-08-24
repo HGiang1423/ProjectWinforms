@@ -1,0 +1,18 @@
+D:\windows\DangLeHuongGiang2121110222\DTO\bin\Debug\DTO.exe.config
+D:\windows\DangLeHuongGiang2121110222\DTO\bin\Debug\DTO.exe
+D:\windows\DangLeHuongGiang2121110222\DTO\bin\Debug\DTO.pdb
+D:\windows\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\windows\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\windows\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\windows\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\windows\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.exe
+D:\windows\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DTO\bin\Debug\DTO.exe.config
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DTO\bin\Debug\DTO.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DTO\bin\Debug\DTO.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DTO\obj\Debug\DTO.pdb

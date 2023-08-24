@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D74391B5-1AEB-4F62-A906-F28905E18E37}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUII</RootNamespace>
+    <AssemblyName>GUII</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Client.Education, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\SysWOW64\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="3Class\HeThong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3Class\HeThong.Designer.cs">
+      <DependentUpon>HeThong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3Class\LienHe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3Class\LienHe.Designer.cs">
+      <DependentUpon>LienHe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3Class\TeacherGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3Class\TeacherGUI.Designer.cs">
+      <DependentUpon>TeacherGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3Class\TTAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3Class\TTAccount.Designer.cs">
+      <DependentUpon>TTAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADO.Designer.cs">
+      <DependentUpon>ADO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Article19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Article19.Designer.cs">
+      <DependentUpon>Article19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Article20,21,22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Article20,21,22.Designer.cs">
+      <DependentUpon>Article20,21,22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3Class\CustomerGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3Class\CustomerGUI.Designer.cs">
+      <DependentUpon>CustomerGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoWindows2.cs" />
+    <Compile Include="DangNhap\DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap\DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="slide07.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="slide07.Designer.cs">
+      <DependentUpon>slide07.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Song.cs" />
+    <Compile Include="Article20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Article20.Designer.cs">
+      <DependentUpon>Article20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongKe.Designer.cs">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="3Class\HeThong.resx">
+      <DependentUpon>HeThong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3Class\LienHe.resx">
+      <DependentUpon>LienHe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3Class\TeacherGUI.resx">
+      <DependentUpon>TeacherGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3Class\TTAccount.resx">
+      <DependentUpon>TTAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADO.resx">
+      <DependentUpon>ADO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Article19.resx">
+      <DependentUpon>Article19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Article20,21,22.resx">
+      <DependentUpon>Article20,21,22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3Class\CustomerGUI.resx">
+      <DependentUpon>CustomerGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap\DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="slide07.resx">
+      <DependentUpon>slide07.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Article20.resx">
+      <DependentUpon>Article20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongKe.resx">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{3c557ae8-3392-45fe-890e-23d132e36d7b}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{90957dcc-e336-473e-b051-15e689a067a7}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1df59199ddd9c012696824d1a6abb797.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,26 @@
+D:\windows\DangLeHuongGiang2121110222\DAL\bin\Debug\DAL.exe.config
+D:\windows\DangLeHuongGiang2121110222\DAL\bin\Debug\DAL.exe
+D:\windows\DangLeHuongGiang2121110222\DAL\bin\Debug\DAL.pdb
+D:\windows\DangLeHuongGiang2121110222\DAL\bin\Debug\DTO.exe
+D:\windows\DangLeHuongGiang2121110222\DAL\bin\Debug\DTO.pdb
+D:\windows\DangLeHuongGiang2121110222\DAL\bin\Debug\DTO.exe.config
+D:\windows\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\windows\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\windows\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\windows\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\windows\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\windows\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.exe
+D:\windows\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\bin\Debug\DAL.exe.config
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\bin\Debug\DAL.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\bin\Debug\DAL.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\bin\Debug\DTO.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\bin\Debug\DTO.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\bin\Debug\DTO.exe.config
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\DAL\obj\Debug\DAL.pdb

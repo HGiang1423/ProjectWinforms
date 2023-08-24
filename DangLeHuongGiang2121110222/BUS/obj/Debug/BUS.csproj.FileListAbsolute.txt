@@ -1,0 +1,49 @@
+D:\windows\DangLeHuongGiang2121110222\BEL\bin\Debug\BEL.exe.config
+D:\windows\DangLeHuongGiang2121110222\BEL\bin\Debug\BEL.exe
+D:\windows\DangLeHuongGiang2121110222\BEL\bin\Debug\BEL.pdb
+D:\windows\DangLeHuongGiang2121110222\BEL\bin\Debug\DAL.exe
+D:\windows\DangLeHuongGiang2121110222\BEL\bin\Debug\DTO.exe
+D:\windows\DangLeHuongGiang2121110222\BEL\bin\Debug\DAL.pdb
+D:\windows\DangLeHuongGiang2121110222\BEL\bin\Debug\DAL.exe.config
+D:\windows\DangLeHuongGiang2121110222\BEL\bin\Debug\DTO.pdb
+D:\windows\DangLeHuongGiang2121110222\BEL\bin\Debug\DTO.exe.config
+D:\windows\DangLeHuongGiang2121110222\BEL\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\windows\DangLeHuongGiang2121110222\BEL\obj\Debug\BUS.csproj.SuggestedBindingRedirects.cache
+D:\windows\DangLeHuongGiang2121110222\BEL\obj\Debug\BEL.Properties.Resources.resources
+D:\windows\DangLeHuongGiang2121110222\BEL\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\windows\DangLeHuongGiang2121110222\BEL\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\windows\DangLeHuongGiang2121110222\BEL\obj\Debug\BUS.csproj.CopyComplete
+D:\windows\DangLeHuongGiang2121110222\BEL\obj\Debug\BEL.exe
+D:\windows\DangLeHuongGiang2121110222\BEL\obj\Debug\BEL.pdb
+D:\windows\DangLeHuongGiang2121110222\BUS\bin\Debug\BUS.exe.config
+D:\windows\DangLeHuongGiang2121110222\BUS\bin\Debug\BUS.exe
+D:\windows\DangLeHuongGiang2121110222\BUS\bin\Debug\BUS.pdb
+D:\windows\DangLeHuongGiang2121110222\BUS\bin\Debug\DAL.exe
+D:\windows\DangLeHuongGiang2121110222\BUS\bin\Debug\DTO.exe
+D:\windows\DangLeHuongGiang2121110222\BUS\bin\Debug\DAL.pdb
+D:\windows\DangLeHuongGiang2121110222\BUS\bin\Debug\DAL.exe.config
+D:\windows\DangLeHuongGiang2121110222\BUS\bin\Debug\DTO.pdb
+D:\windows\DangLeHuongGiang2121110222\BUS\bin\Debug\DTO.exe.config
+D:\windows\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\windows\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\windows\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\windows\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\windows\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\windows\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.exe
+D:\windows\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\bin\Debug\BUS.exe.config
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\bin\Debug\BUS.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\bin\Debug\BUS.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\bin\Debug\DAL.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\bin\Debug\DTO.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\bin\Debug\DAL.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\bin\Debug\DAL.exe.config
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\bin\Debug\DTO.pdb
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\bin\Debug\DTO.exe.config
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.exe
+D:\windows\HuongGiang C#\DangLeHuongGiang2121110222\BUS\obj\Debug\BUS.pdb
